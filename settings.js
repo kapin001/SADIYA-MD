@@ -1,5 +1,5 @@
-const SESSION_ID = ""
-const BOT_NUMBER = ""
-const GITHUB_AUTH_TOKEN = ""
+const SESSION_ID = "SADIYA-MD=6loiWbaI#VLI3Ceubcb8B62dAwOJlhzzyiIo4yoWljIFYgAaFkEY"
+const BOT_NUMBER = "94787244019"
+const GITHUB_AUTH_TOKEN = "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"
 
 module.exports = {SESSION_ID,BOT_NUMBER,GITHUB_AUTH_TOKEN}
